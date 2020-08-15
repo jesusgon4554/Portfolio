@@ -4,3 +4,12 @@ body{
     background-attachment: fixed;
     background-position:center;
 }
+
+h1{
+    font-family: 'Arvo', serif;
+    text-align: center;
+}
+
+.row{
+    margin-top: 10px;
+}
