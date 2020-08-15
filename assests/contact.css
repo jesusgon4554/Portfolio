@@ -8,8 +8,11 @@ body{
 h1{
     font-family: 'Arvo', serif;
     text-align: center;
+    padding-top: 10px;
+    color: cadetblue;
 }
 
 .row{
-    margin-top: 10px;
+    margin-top: 30px;
 }
+
