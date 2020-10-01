@@ -1,18 +1,17 @@
 # Portfolio
-Created index.html, aboutMe.html, contact.html, and portfolio.html
+This portfolio is current and represents my latest accomplishments and projects.
 
-index.html
-added background, text, and navbar to index
-updated styles for font 
+Files included in this is
+index.html- Landing page
+aboutMe.html- Description and resume attached
+contact.html- How to contact me
+portfolio- Showcasing my latest project
 
-aboutMe.html
-set background 
-added a container with image and text
+==================================================
 
-contact.html
-added background
-added contact information as buttons with links for easy access to LinkedIn and Github
+Links
+Deployed Website
+https://jesusgon4554.github.io/Portfolio/index.html
 
-portfolio
-added background
-inserted cards with image for soon to be projects
+Code
+https://github.com/jesusgon4554/Portfolio
