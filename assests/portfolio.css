@@ -1,0 +1,13 @@
+body{
+    background-image: url(https://ribook.org/wp-content/uploads/2019/01/light-blue-background.jpg);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position:center;
+}
+
+h2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: cadetblue;
+}
